@@ -12,13 +12,13 @@
 🌎 Check my [portfolio](http://www.notdoneyet.com/)
 
 <div align="center" style="padding: 25px 0;">
-    <a href="https://twitter.com/Salman_A09" style="padding: 24px;">
+    <a href="https://twitter.com/Salman_A09">
     <img src="https://github.com/salman-ar-sar/salman-ar-sar/blob/main/assests/twitter.png" alt="Follow me on twitter"  width="24" height="24">
     </a>
-    <a href="https://www.linkedin.com/in/salman-ar/" style="padding: 8px; width: 24px; height: 24px;">
+    <a href="https://www.linkedin.com/in/salman-ar/">
         <img src="https://github.com/salman-ar-sar/salman-ar-sar/blob/main/assests/linkedin.png" alt="Connect on Linkedin" width="24" height="24">
     </a>
-    <a href="mailto:salman.a.mec@gmail.com" style="padding: 8px; width: 24px; height: 24px;">
+    <a href="mailto:salman.a.mec@gmail.com">
         <img src="https://github.com/salman-ar-sar/salman-ar-sar/blob/main/assests/gmail.png" alt="Email me" width="24" height="24">
     </a>
 </div>
