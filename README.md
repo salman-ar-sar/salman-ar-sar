@@ -9,7 +9,7 @@
 - 📫 How to reach me: Social links below!
 - :bowling: Interests: Mobile phones, anything tech basically xD
 
-🌎 Check my [portfolio](http://www.notdoneyet.com/)
+🌎 Check my [portfolio](!)
 
 <div align="center" style="padding: 25px 0;">
     <a href="https://twitter.com/Salman_A09">
