@@ -5,7 +5,7 @@
 - 🌱 I’m currently pursuing my Bachelor degree in CSE
 - 🔭 I’m currently working on MedChain, an awesome EHR system based on Blockchain.
 - 👯 I’m looking to collaborate on Solidity/Python/C++ projects.
-- 💬 Feel free to ask anything about Solidity and Python doubt.
+- 💬 Feel free to ask anything about Solidity and Python.
 - 📫 How to reach me: Social links below!
 - :bowling: Interests: Mobile phones, anything tech basically xD
 
