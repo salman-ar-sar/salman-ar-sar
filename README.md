@@ -1,11 +1,11 @@
 ### Hi there! 👋
 
-### I'm Salman and I'm Software Developer
+### I'm Salman and I'm Full Stack Engineer
 
-- 🌱 I’m currently pursuing my Bachelor degree in CSE
-- 🔭 I’m currently working on MedChain, an awesome EHR system based on Blockchain.
-- 👯 I’m looking to collaborate on Solidity/Python/C++ projects.
-- 💬 Feel free to ask anything about Solidity and Python.
+- 🌱 I’m a Software Engineer based in Cochin at Hatio.
+- 🔭 I work on large scale Fintech projects.
+- 👯 I’m looking to collaborate on JS/TS, HTML, Solidity projects.
+- 💬 Feel free to ask anything about JS/TS, Solidity, etc.
 - 📫 How to reach me: Social links below!
 - :bowling: Interests: Mobile phones, anything tech basically xD
 
