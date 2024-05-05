@@ -2,10 +2,10 @@
 
 ### I'm Salman and I'm Full Stack Engineer
 
-- 🌱 I’m a Software Engineer based in Cochin at Hatio.
+- 🌱 I’m a Software Development Engineer - 2 based in Cochin at Hatio.
 - 🔭 I work on large scale Fintech projects.
-- 👯 I’m looking to collaborate on JS/TS, HTML, Solidity projects.
-- 💬 Feel free to ask anything about JS/TS, Solidity, etc.
+- 👯 I’m looking to collaborate on React, React Native, JS/TS, HTML, Solidity projects.
+- 💬 Feel free to ask anything about JS/TS, React, etc.
 - 📫 How to reach me: Social links below!
 - :bowling: Interests: Mobile phones, anything tech basically xD
 
